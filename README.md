@@ -1,5 +1,6 @@
 ### <div align="center">I'm João, a  full-stack developer 👨‍💻 </div>  
   
+<p align="center"><strong>🌐 Meu portfólio:</strong> <a href="https://j-ferre1ra.github.io/">projetos, experiências e competências</a></p>
 
 - 🌱 I’m currently learning JavaScript  
   
