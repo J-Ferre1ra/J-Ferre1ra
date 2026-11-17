@@ -1,80 +1,41 @@
-### <div align="center">I'm João, a  full-stack developer 👨‍💻 </div>  
-  
-<p align="center"><strong>🌐 Meu portfólio:</strong> <a href="https://j-ferre1ra.github.io/">projetos, experiências e competências</a></p>
+# João Henrique Ferreira
 
-- 🌱 I’m currently learning JavaScript  
-  
+## Desenvolvedor Full Stack com foco em Front-end
 
-- 💡 Interests: Web development, creating innovative projects, and continuous learning.  
-  
+Sou desenvolvedor de software com experiência prática na construção de aplicações web. Meu foco principal é o front-end: trabalho com React e TypeScript para criar interfaces e integrar APIs. Também desenvolvo aplicações e serviços com Node.js e Express e já usei SQLite, MongoDB/Mongoose e Cloudflare Workers em projetos.
 
-<br/>  
+Nos projetos, trabalhei em fluxos de autenticação, operações CRUD, painéis, filtros, gestão de estoque e integrações com serviços externos. Gosto de entender o caminho completo entre a interface, a API, os dados e a publicação da aplicação.
 
+Atualmente estou aprofundando arquitetura, testes, CI/CD e operação em nuvem para tomar e explicar decisões técnicas com mais segurança.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Tecnologias aplicadas em projetos
 
+- **Front-end:** React, TypeScript, JavaScript, Vite, HTML e CSS
+- **Back-end e APIs:** Node.js, Express e APIs REST
+- **Dados:** SQLite, MongoDB e Mongoose
+- **Publicação:** Cloudflare Workers, GitHub Pages e GitHub Actions
 
+## Projetos em destaque
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+### [Pacefinder](https://github.com/J-Ferre1ra/pacefinder)
+Protótipo web para explorar percursos de corrida, feito com React, TypeScript, Google Maps e Cloudflare Workers. A demonstração deixa claros os limites atuais: parte dos dados é ilustrativa e as rotas são aproximadas.
 
-</div>
+- [Abrir demonstração](https://pacefinder.programation-077.workers.dev/)
+- [Ver código e documentação](https://github.com/J-Ferre1ra/pacefinder)
 
-</td><td valign="top" width="33%">
+### [Portal de Solicitações Internas](https://github.com/J-Ferre1ra/Portal-de-Solicita-Interna.)
+Aplicação full stack com React, Express e SQLite para autenticação, criação e acompanhamento de solicitações, filtros e painel de status.
 
+### Sistema de gestão de estoque
+Projeto full stack com interface React e API Node.js/Express, MongoDB/Mongoose, autenticação e fluxos de produtos e vendas.
 
+- [Front-end](https://github.com/J-Ferre1ra/Front-Stock)
+- [API](https://github.com/J-Ferre1ra/Back-Stock)
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+## Contato
 
+- [Portfólio](https://j-ferre1ra.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/ferreiraj0ao/)
+- [GitHub](https://github.com/J-Ferre1ra)
 
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/J-Ferre1ra" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ferreiraj0ao" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/j.ferreira_011" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=J-Ferre1ra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=J-Ferre1ra&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Busco oportunidades em desenvolvimento front-end ou full stack, com foco especial em interfaces e interesse em contribuir com entregas de ponta a ponta.
